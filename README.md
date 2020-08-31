@@ -12,7 +12,7 @@ In some countries the internet signal is too poor so if we travel , we can have 
 
 I create a webhook through the use of node and express, I exposed my local host to the facebook webhook with ngrok, through which I send and receive the requests to messenger, when I receive a specific request For a translation I consume an internal service that I use to call the google translations API, I clean the request and send an input back, some of the requests I send them as json to IA Platform where I use them for self-training and the result I return it as a json to be able to use it in some future. The part of the images I receive the request, if when I receive it I detect it as an image I receive it, I send it to my service and I consume the image processing api to be able to detect the elements of the image.
 
-<img src="https://raw.githubusercontent.com/L3ts-H4ck/sayme-messenger/master/Amarillo%20Negro%20Sencillo%20Empresa%20Mapa%20Mental.png" width="75%" title="hover text">
+<img src="https://raw.githubusercontent.com/L3ts-H4ck/sayme-messenger/master/architecture.png" width="75%" title="hover text">
 
 ## 👨🏻‍💻 Tech Stack
 
