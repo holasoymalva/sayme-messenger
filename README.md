@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/L3ts-H4ck/sayme-messenger/master/Pink%20and%20Blue%20Abstract%20Moms%20Influencer%20Freestyle%20Art%20Facebook%20Cover.png" width="100%" title="hover text">
 
-# 🎒 Sayme
+# 🎒 Sayme 📚
 
-**Assistant for travers** , with the use of translations an image processing.
+**A messenger attendance for keep speaking**
 
-## 🦄 My Mission in front a problem 🧟‍♀️
+## 🦄 A Mission in front a problem 🧟‍♀️
 
-In some countries the internet signal is too poor so if we travel , we can have a problem to trasnlate using convenctional apps for translation, but with the use of messenger we onli need the necesary internet to send a message and recibe a translation. I build an awesome assistant to translate conversations with a low signal of internet. 
+In my city, as in many other cities, the internet has a low bandwidth, and when tourists visit it, they may find it difficult to access applications that consume too much data, but messenger continues to work despite having an internet of low bandwidth and the fact of integrating a translation solution, in a messenger conversation it could help people who are traveling or who live in remote regions and who want to learn another language ✨ if you see something that I can fix or integrate I'm open for feedback 😊 
 
 ## 🔮 Architecture
 
@@ -25,7 +25,7 @@ I create a webhook through the use of node and express, I exposed my local host 
 - ✅ Natural Language API
 
 ## 👩🏻‍🔬 What I learned
-In this awesome travel between different assistants platforms and ecosystems i take the opportunity to create awesome things with the use of messenger , a backend core build in node.js and express and build a IA model with the use of IA Platform ( Google Cloud Platform )
+In this awesome travel between different assistants platforms and ecosystems I take the opportunity to create awesome things with the use of messenger , a backend core build in node.js and express and build a IA model with the use of IA Platform ( Google Cloud Platform )
 
 ## 📝 What's next for Sayme
 - ✨ Add new languajes
