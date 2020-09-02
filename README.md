@@ -39,3 +39,8 @@ When I was testing on the subway, I fell down the stairs 😭.
 ## Test and tell me what do you think ?
 
 m.me/okeysayme
+
+
+## License
+
+The content of this repository is licensed under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
