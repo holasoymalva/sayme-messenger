@@ -46,7 +46,7 @@ m.me/okeysayme
 `Sayme` is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
 
 
-## Use the js Core to build a mesenger chatbot
+## Use the Sayme Core to build a mesenger chatbot 🦄
 
 #### Download Project
   
@@ -63,3 +63,39 @@ Please read the following information : https://dev.to/deammer/loading-environme
 
     $ touch .env
     $ code .env
+    
+Add your credentials and this will look like:
+
+```js
+
+{
+   NODE_ENV: "development",
+   APP_SECRET_KEY: "TEST_KEY",
+   APP_API_KEY: "adjlkwkjadskjdajsd",
+   NGROK_URL: "https://aleatoryUrl.io/"
+}
+
+```
+    
+
+Supported Node & NPM versions
+-----------------------
+
+Supported Ruby versions are listed in as soon as possible. 
+
+More Information
+----------------
+
+* [Issues](https://github.com/thoughtbot/sayme-messenger/issues)
+
+
+Useful Tools
+------------
+
+* [ngrok](https://ngrok.com/) - helps to expose local host for facebook.
+
+Contributing
+------------
+
+Please see [CONTRIBUTING.md](https://github.com/L3ts-H4ck/sayme-messenger/blob/master/CONTRIBUTING.md).
+
