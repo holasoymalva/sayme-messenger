@@ -43,4 +43,22 @@ m.me/okeysayme
 
 ## License
 
-The content of this repository is licensed under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+`Sayme` is a public domain work, dedicated using [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Feel free to do whatever you want with it.
+
+
+## Use the js Core to build a mesenger chatbot
+
+#### Download Project
+  
+    $ git clone https://github.com/L3ts-H4ck/sayme-messenger.git
+    
+#### Install dependencies
+
+    $ cd  sayme-messenger
+    $ npm install 
+    
+#### Loading environment variables
+
+Please read the following information : https://dev.to/deammer/loading-environment-variables-in-js-apps-1p7p
+    $ touch .env
+    $ code .env
